@@ -1,9 +1,9 @@
 name: Weather Data Workflow (Hourly)
 
 on:
-  # schedule:
-    # - cron: '0 16-23,0-15 * * *'  # This runs the workflow at the start of every hour
-  workflow_dispatch:
+  schedule:
+    - cron: '0 16-23,0-15 * * *'  # This runs the workflow at the start of every hour
+  # workflow_dispatch:
 
 jobs:
   build:

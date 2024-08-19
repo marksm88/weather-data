@@ -328,3 +328,4 @@ datetime,city_name,country_code,longitude (degrees),latitude (degrees),weather_m
 2024-08-19 17:18:30,Quezon City,PH,121.0445,14.6448,Clouds,broken clouds,27.3,30.2,1008,78,26.48,28.13,1008,1006,6000,4.63,320,,75,,
 2024-08-19 18:19:58,Quezon City,PH,121.0445,14.6448,Clouds,broken clouds,26.52,26.52,1009,81,25.92,27.58,1009,1006,8000,2.57,260,,75,,
 2024-08-19 19:13:46,Quezon City,PH,121.0445,14.6448,Clouds,overcast clouds,27.07,30.09,1009,82,25.29,27.58,1009,1007,10000,1.57,173,3.02,100,,
+2024-08-19 20:32:45,Quezon City,PH,121.0445,14.6448,Rain,heavy intensity rain,27.14,30.37,1011,83,25.84,27.75,1011,1009,8000,2.06,60,,100,9.99,

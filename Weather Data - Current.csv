@@ -1,2 +1,2 @@
 datetime,city_name,country_code,longitude (degrees),latitude (degrees),weather_main,weather_description,temperature (C),feels_like_temperature (C),pressure (hPa),humidity (%),temp_min (C),temp_max (C),sea_level_pressure (hPa),ground_level_pressure (hPa),visibility (m),wind_speed (m/s),wind_deg (degrees),wind_gust (m/s),cloudiness (%),rain_last_1h (mm),rain_last_3h (mm)
-2024-10-10 16:23:26,Quezon City,PH,121.0445,14.6448,Rain,light rain,28.91,34.07,1008,78,28.62,29.24,1008,1006,9000,2.06,230,,75,0.45,
+2024-10-10 17:19:50,Quezon City,PH,121.0445,14.6448,Rain,light rain,30,37,1008,78,28.62,30.38,1008,1006,9000,2.68,236,5.81,75,0.24,
